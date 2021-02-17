@@ -1426,7 +1426,7 @@ if it's not present, don't show loader */
 
 
 	h4 {
-		font-size: 0.95em;
+		font-size: 0.75em;
 		font-weight: 600;
 		letter-spacing: 0.03em;
 	}
@@ -1456,7 +1456,7 @@ if it's not present, don't show loader */
 	h6 {
 		font-family: 'Inter', sans-serif;
 		font-weight: 400;
-		font-size: 0.6em;
+		font-size: 0.5em;
 		color: #777777;
 		letter-spacing: 0.07em;
 		padding-bottom: 0.4em;
